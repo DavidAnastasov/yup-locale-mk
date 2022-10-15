@@ -1,0 +1,21 @@
+{
+  "name": "yup-locale-mk",
+  "version": "0.0.1",
+  "description": "Macedonian localization library for Yup",
+  "main": "src/index.js",
+  "type": "module",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidAnastasov/yup-locale-mk.git"
+  },
+  "keywords": [
+    "yup",
+    "localization",
+    "i18n",
+    "macedonian",
+    "mk"
+  ],
+  "author": "David Anastasov<davidanastasov@hotmail.com>",
+  "license": "MIT"
+}
