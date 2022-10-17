@@ -1,13 +1,13 @@
-import locale from "./variants/locale";
 import localeForm from "./variants/localeForm";
 import localeShort from "./variants/localeShort";
+import localeDescriptive from "./variants/localeDescriptive.js";
 
-export const mk = locale;
+export const mkDescriptive = localeDescriptive;
 export const mkForm = localeForm;
 export const mkShort = localeShort;
 
 export default {
-  mk,
+  mkDescriptive,
   mkForm,
   mkShort,
 };
